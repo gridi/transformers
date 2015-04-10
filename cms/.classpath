@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar" sourcepath="M2_REPO/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" sourcepath="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/jcr/jcr/2.0/jcr-2.0.jar" sourcepath="M2_REPO/javax/jcr/jcr/2.0/jcr-2.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/javax/jcr/jcr/2.0/jcr-2.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/javax/mail/mail/1.4.7/mail-1.4.7.jar" sourcepath="M2_REPO/javax/mail/mail/1.4.7/mail-1.4.7-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/javax/mail/mail/1.4.7/mail-1.4.7-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar" sourcepath="M2_REPO/javax/activation/activation/1.1/activation-1.1-sources.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hst/toolkit-resources/addon/toolkit-cnd/hst-addon-cnd/2.28.07/hst-addon-cnd-2.28.07.jar" sourcepath="M2_REPO/org/onehippo/cms7/hst/toolkit-resources/addon/toolkit-cnd/hst-addon-cnd/2.28.07/hst-addon-cnd-2.28.07-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hst/toolkit-resources/addon/hst-addon-repository/2.28.07/hst-addon-repository-2.28.07.jar" sourcepath="M2_REPO/org/onehippo/cms7/hst/toolkit-resources/addon/hst-addon-repository/2.28.07/hst-addon-repository-2.28.07-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hst/toolkit-resources/addon/hst-addon-repository/2.28.07/hst-addon-repository-2.28.07-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hst/components/hst-resourcebundle-cnd/2.28.07/hst-resourcebundle-cnd-2.28.07.jar" sourcepath="M2_REPO/org/onehippo/cms7/hst/components/hst-resourcebundle-cnd/2.28.07/hst-resourcebundle-cnd-2.28.07-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hst/hst-rest-api/2.28.07/hst-rest-api-2.28.07.jar" sourcepath="M2_REPO/org/onehippo/cms7/hst/hst-rest-api/2.28.07/hst-rest-api-2.28.07-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hst/hst-rest-api/2.28.07/hst-rest-api-2.28.07-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hst/hst-api/2.28.07/hst-api-2.28.07.jar" sourcepath="M2_REPO/org/onehippo/cms7/hst/hst-api/2.28.07/hst-api-2.28.07-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hst/hst-api/2.28.07/hst-api-2.28.07-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms7-utilities/1.03.01/hippo-cms7-utilities-1.03.01.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms7-utilities/1.03.01/hippo-cms7-utilities-1.03.01-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-cms7-utilities/1.03.01/hippo-cms7-utilities-1.03.01-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" sourcepath="M2_REPO/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-editor-common/2.26.10/hippo-cms-editor-common-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-editor-common/2.26.10/hippo-cms-editor-common-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-translation-common/2.26.10/hippo-cms-translation-common-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-translation-common/2.26.10/hippo-cms-translation-common-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-brokenlinks-common/2.26.10/hippo-cms-brokenlinks-common-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-brokenlinks-common/2.26.10/hippo-cms-brokenlinks-common-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-api/2.26.10/hippo-cms-api-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-api/2.26.10/hippo-cms-api-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/hippoecm/htmldiff/1.01.03/htmldiff-1.01.03.jar" sourcepath="M2_REPO/org/hippoecm/htmldiff/1.01.03/htmldiff-1.01.03-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/hippoecm/htmldiff/1.01.03/htmldiff-1.01.03-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/net/sourceforge/nekohtml/nekohtml/1.9.13/nekohtml-1.9.13.jar" sourcepath="M2_REPO/net/sourceforge/nekohtml/nekohtml/1.9.13/nekohtml-1.9.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/net/sourceforge/nekohtml/nekohtml/1.9.13/nekohtml-1.9.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" sourcepath="M2_REPO/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/equinox/common/3.3.0-v20070426/common-3.3.0-v20070426.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/yui/yui-2.xx-sources/1.01.11/yui-2.xx-sources-1.01.11.jar" sourcepath="M2_REPO/org/onehippo/yui/yui-2.xx-sources/1.01.11/yui-2.xx-sources-1.01.11-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-core/6.14.0/wicket-core-6.14.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-core/6.14.0/wicket-core-6.14.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/wicket/wicket-core/6.14.0/wicket-core-6.14.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-util/6.14.0/wicket-util-6.14.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-util/6.14.0/wicket-util-6.14.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/wicket/wicket-util/6.14.0/wicket-util-6.14.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-request/6.14.0/wicket-request-6.14.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-request/6.14.0/wicket-request-6.14.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/wicket/wicket-request/6.14.0/wicket-request-6.14.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-extensions/6.14.0/wicket-extensions-6.14.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-extensions/6.14.0/wicket-extensions-6.14.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/wicket/wicket-extensions/6.14.0/wicket-extensions-6.14.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-datetime/6.14.0/wicket-datetime-6.14.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-datetime/6.14.0/wicket-datetime-6.14.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/wicket/wicket-datetime/6.14.0/wicket-datetime-6.14.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/joda-time/joda-time/2.0/joda-time-2.0.jar" sourcepath="M2_REPO/joda-time/joda-time/2.0/joda-time-2.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/joda-time/joda-time/2.0/joda-time-2.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/wicketstuff/wicket-extjs/0.24/wicket-extjs-0.24.jar" sourcepath="M2_REPO/org/wicketstuff/wicket-extjs/0.24/wicket-extjs-0.24-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/json/json/20090211/json-20090211.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/aspectj/aspectjrt/1.6.7/aspectjrt-1.6.7.jar" sourcepath="M2_REPO/org/aspectj/aspectjrt/1.6.7/aspectjrt-1.6.7-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/wicketstuff/wicket-extjs-bundle/0.24/wicket-extjs-bundle-0.24.jar" sourcepath="M2_REPO/org/wicketstuff/wicket-extjs-bundle/0.24/wicket-extjs-bundle-0.24-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/wicketstuff/wicketstuff-input-events/6.14.0/wicketstuff-input-events-6.14.0.jar" sourcepath="M2_REPO/org/wicketstuff/wicketstuff-input-events/6.14.0/wicketstuff-input-events-6.14.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/wicketstuff/wicketstuff-input-events/6.14.0/wicketstuff-input-events-6.14.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/imgscalr/imgscalr-lib/4.2/imgscalr-lib-4.2.jar" sourcepath="M2_REPO/org/imgscalr/imgscalr-lib/4.2/imgscalr-lib-4.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/imgscalr/imgscalr-lib/4.2/imgscalr-lib-4.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/net/sf/json-lib/json-lib/2.2.2/json-lib-2.2.2-jdk15.jar" sourcepath="M2_REPO/net/sf/json-lib/json-lib/2.2.2/json-lib-2.2.2-jdk15-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/net/sf/json-lib/json-lib/2.2.2/json-lib-2.2.2-jdk15-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar" sourcepath="M2_REPO/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.2/commons-collections-3.2.jar" sourcepath="M2_REPO/commons-collections/commons-collections/3.2/commons-collections-3.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/sf/ezmorph/ezmorph/1.0.4/ezmorph-1.0.4.jar" sourcepath="M2_REPO/net/sf/ezmorph/ezmorph/1.0.4/ezmorph-1.0.4-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/net/sf/ezmorph/ezmorph/1.0.4/ezmorph-1.0.4-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/eu/medsea/mimeutil/mime-util/2.1.3/mime-util-2.1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/sanselan/sanselan/0.97-incubator/sanselan-0.97-incubator.jar" sourcepath="M2_REPO/org/apache/sanselan/sanselan/0.97-incubator/sanselan-0.97-incubator-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/sanselan/sanselan/0.97-incubator/sanselan-0.97-incubator-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-engine/2.26.10/hippo-cms-engine-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-engine/2.26.10/hippo-cms-engine-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" sourcepath="M2_REPO/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/commons-codec/commons-codec/1.4/commons-codec-1.4-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-rt-frontend-jaxrs/2.6.13/cxf-rt-frontend-jaxrs-2.6.13.jar" sourcepath="M2_REPO/org/apache/cxf/cxf-rt-frontend-jaxrs/2.6.13/cxf-rt-frontend-jaxrs-2.6.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/cxf/cxf-rt-frontend-jaxrs/2.6.13/cxf-rt-frontend-jaxrs-2.6.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-api/2.6.13/cxf-api-2.6.13.jar" sourcepath="M2_REPO/org/apache/cxf/cxf-api/2.6.13/cxf-api-2.6.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/cxf/cxf-api/2.6.13/cxf-api-2.6.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/woodstox/woodstox-core-asl/4.2.0/woodstox-core-asl-4.2.0.jar" sourcepath="M2_REPO/org/codehaus/woodstox/woodstox-core-asl/4.2.0/woodstox-core-asl-4.2.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/codehaus/woodstox/woodstox-core-asl/4.2.0/woodstox-core-asl-4.2.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/woodstox/stax2-api/3.1.1/stax2-api-3.1.1.jar" sourcepath="M2_REPO/org/codehaus/woodstox/stax2-api/3.1.1/stax2-api-3.1.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/ws/xmlschema/xmlschema-core/2.0.3/xmlschema-core-2.0.3.jar" sourcepath="M2_REPO/org/apache/ws/xmlschema/xmlschema-core/2.0.3/xmlschema-core-2.0.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/ws/xmlschema/xmlschema-core/2.0.3/xmlschema-core-2.0.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1.jar" sourcepath="M2_REPO/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/wsdl4j/wsdl4j/1.6.3/wsdl4j-1.6.3.jar" sourcepath="M2_REPO/wsdl4j/wsdl4j/1.6.3/wsdl4j-1.6.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/wsdl4j/wsdl4j/1.6.3/wsdl4j-1.6.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-rt-core/2.6.13/cxf-rt-core-2.6.13.jar" sourcepath="M2_REPO/org/apache/cxf/cxf-rt-core/2.6.13/cxf-rt-core-2.6.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/cxf/cxf-rt-core/2.6.13/cxf-rt-core-2.6.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.5.1/jaxb-impl-2.2.5.1.jar" sourcepath="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.5.1/jaxb-impl-2.2.5.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.5.1/jaxb-impl-2.2.5.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-rt-bindings-xml/2.6.13/cxf-rt-bindings-xml-2.6.13.jar" sourcepath="M2_REPO/org/apache/cxf/cxf-rt-bindings-xml/2.6.13/cxf-rt-bindings-xml-2.6.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/cxf/cxf-rt-bindings-xml/2.6.13/cxf-rt-bindings-xml-2.6.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-rt-transports-http/2.6.13/cxf-rt-transports-http-2.6.13.jar" sourcepath="M2_REPO/org/apache/cxf/cxf-rt-transports-http/2.6.13/cxf-rt-transports-http-2.6.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/cxf/cxf-rt-transports-http/2.6.13/cxf-rt-transports-http-2.6.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-jaxrs/1.9.13/jackson-jaxrs-1.9.13.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-jaxrs/1.9.13/jackson-jaxrs-1.9.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.9.13/jackson-jaxrs-1.9.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-xc/1.9.13/jackson-xc-1.9.13.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-xc/1.9.13/jackson-xc-1.9.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/codehaus/jackson/jackson-xc/1.9.13/jackson-xc-1.9.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.2.2/httpclient-4.2.2.jar" sourcepath="M2_REPO/org/apache/httpcomponents/httpclient/4.2.2/httpclient-4.2.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.2.2/httpcore-4.2.2.jar" sourcepath="M2_REPO/org/apache/httpcomponents/httpcore/4.2.2/httpcore-4.2.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/google/guava/guava/16.0.1/guava-16.0.1.jar" sourcepath="M2_REPO/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-workflowmenu/2.26.10/hippo-cms-workflowmenu-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-workflowmenu/2.26.10/hippo-cms-workflowmenu-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-builtin/2.26.10/hippo-cms-builtin-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-builtin/2.26.10/hippo-cms-builtin-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-translation-frontend/2.26.10/hippo-cms-translation-frontend-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-translation-frontend/2.26.10/hippo-cms-translation-frontend-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-richtext-frontend/2.26.10/hippo-cms-richtext-frontend-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-richtext-frontend/2.26.10/hippo-cms-richtext-frontend-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-gallery-frontend/2.26.10/hippo-cms-gallery-frontend-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-gallery-frontend/2.26.10/hippo-cms-gallery-frontend-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/hippo/htmlcleaner/1.02.09/htmlcleaner-1.02.09.jar" sourcepath="M2_REPO/hippo/htmlcleaner/1.02.09/htmlcleaner-1.02.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/hippo/htmlcleaner/1.02.09/htmlcleaner-1.02.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/nekohtml/nekodtd/0.1.11/nekodtd-0.1.11.jar" sourcepath="M2_REPO/nekohtml/nekodtd/0.1.11/nekodtd-0.1.11-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/nekohtml/nekodtd/0.1.11/nekodtd-0.1.11-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/outerj/daisy/daisy-util/1.4.1/daisy-util-1.4.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/jakarta-regexp/jakarta-regexp/1.4/jakarta-regexp-1.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/sourceforge/htmlcleaner/htmlcleaner/2.7/htmlcleaner-2.7.jar" sourcepath="M2_REPO/net/sourceforge/htmlcleaner/htmlcleaner/2.7/htmlcleaner-2.7-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/net/sourceforge/htmlcleaner/htmlcleaner/2.7/htmlcleaner-2.7-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/jdom/jdom2/2.0.5/jdom2-2.0.5.jar" sourcepath="M2_REPO/org/jdom/jdom2/2.0.5/jdom2-2.0.5-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/jdom/jdom2/2.0.5/jdom2-2.0.5-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-workflow-frontend/2.26.10/hippo-cms-workflow-frontend-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-workflow-frontend/2.26.10/hippo-cms-workflow-frontend-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-brokenlinks-frontend/2.26.10/hippo-cms-brokenlinks-frontend-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-brokenlinks-frontend/2.26.10/hippo-cms-brokenlinks-frontend-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-editor-frontend/2.26.10/hippo-cms-editor-frontend-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-editor-frontend/2.26.10/hippo-cms-editor-frontend-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-richtext-ckeditor-resources/2.26.10/hippo-cms-richtext-ckeditor-resources-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-richtext-ckeditor-resources/2.26.10/hippo-cms-richtext-ckeditor-resources-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-ckeditor/4.4.1-h5/hippo-ckeditor-4.4.1-h5-optimized.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-ckeditor/4.4.1-h5/hippo-ckeditor-4.4.1-h5-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/4.10/junit-4.10.jar" sourcepath="M2_REPO/junit/junit/4.10/junit-4.10-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/junit/junit/4.10/junit-4.10-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar" sourcepath="M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-richtext-ckeditor-plugins/2.26.10/hippo-cms-richtext-ckeditor-plugins-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-richtext-ckeditor-plugins/2.26.10/hippo-cms-richtext-ckeditor-plugins-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-richtext-ckeditor-frontend/2.26.10/hippo-cms-richtext-ckeditor-frontend-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-richtext-ckeditor-frontend/2.26.10/hippo-cms-richtext-ckeditor-frontend-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-perspectives/2.26.10/hippo-cms-perspectives-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-perspectives/2.26.10/hippo-cms-perspectives-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/jackrabbit/jackrabbit-jcr-commons/2.6.5/jackrabbit-jcr-commons-2.6.5.jar" sourcepath="M2_REPO/org/apache/jackrabbit/jackrabbit-jcr-commons/2.6.5/jackrabbit-jcr-commons-2.6.5-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/jackrabbit/jackrabbit-jcr-commons/2.6.5/jackrabbit-jcr-commons-2.6.5-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-reporting-frontend/2.26.10/hippo-cms-reporting-frontend-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-reporting-frontend/2.26.10/hippo-cms-reporting-frontend-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-gotolink/2.26.10/hippo-cms-gotolink-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-gotolink/2.26.10/hippo-cms-gotolink-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-jquery/2.26.10/hippo-cms-jquery-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-jquery/2.26.10/hippo-cms-jquery-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-console-frontend/2.26.10/hippo-cms-console-frontend-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-console-frontend/2.26.10/hippo-cms-console-frontend-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/jcrdiff-client/1.01.05/jcrdiff-client-1.01.05.jar" sourcepath="M2_REPO/org/onehippo/cms7/jcrdiff-client/1.01.05/jcrdiff-client-1.01.05-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/jcrdiff-client/1.01.05/jcrdiff-client-1.01.05-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/jcrdiff-core/1.01.05/jcrdiff-core-1.01.05.jar" sourcepath="M2_REPO/org/onehippo/cms7/jcrdiff-core/1.01.05/jcrdiff-core-1.01.05-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/jcrdiff-core/1.01.05/jcrdiff-core-1.01.05-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4.jar" sourcepath="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-api/2.26.09/hippo-repository-api-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-api/2.26.09/hippo-repository-api-2.26.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-repository-api/2.26.09/hippo-repository-api-2.26.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-automatic-export-frontend/2.26.10/hippo-cms-automatic-export-frontend-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-automatic-export-frontend/2.26.10/hippo-cms-automatic-export-frontend-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-types/2.26.10/hippo-cms-types-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-types/2.26.10/hippo-cms-types-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-config/2.26.10/hippo-cms-config-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-config/2.26.10/hippo-cms-config-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-gallery-repository/2.26.10/hippo-cms-gallery-repository-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-gallery-repository/2.26.10/hippo-cms-gallery-repository-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-translation-repository/2.26.10/hippo-cms-translation-repository-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-translation-repository/2.26.10/hippo-cms-translation-repository-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-workflow-repository/2.26.10/hippo-cms-workflow-repository-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-workflow-repository/2.26.10/hippo-cms-workflow-repository-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-brokenlinks-repository/2.26.10/hippo-cms-brokenlinks-repository-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-brokenlinks-repository/2.26.10/hippo-cms-brokenlinks-repository-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-editor-repository/2.26.10/hippo-cms-editor-repository-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-editor-repository/2.26.10/hippo-cms-editor-repository-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-richtext-repository/2.26.10/hippo-cms-richtext-repository-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-richtext-repository/2.26.10/hippo-cms-richtext-repository-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-reporting-repository/2.26.10/hippo-cms-reporting-repository-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-reporting-repository/2.26.10/hippo-cms-reporting-repository-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-console-repository/2.26.10/hippo-cms-console-repository-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-console-repository/2.26.10/hippo-cms-console-repository-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms-automatic-export-repository/2.26.10/hippo-cms-automatic-export-repository-2.26.10.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms-automatic-export-repository/2.26.10/hippo-cms-automatic-export-repository-2.26.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-builtin/2.26.09/hippo-repository-builtin-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-builtin/2.26.09/hippo-repository-builtin-2.26.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-repository-builtin/2.26.09/hippo-repository-builtin-2.26.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-engine/2.26.09/hippo-repository-engine-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-engine/2.26.09/hippo-repository-engine-2.26.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-repository-engine/2.26.09/hippo-repository-engine-2.26.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/jackrabbit/jackrabbit-core/2.6.5-h2/jackrabbit-core-2.6.5-h2.jar" sourcepath="M2_REPO/org/apache/jackrabbit/jackrabbit-core/2.6.5-h2/jackrabbit-core-2.6.5-h2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/concurrent/concurrent/1.3.4/concurrent-1.3.4.jar" sourcepath="M2_REPO/concurrent/concurrent/1.3.4/concurrent-1.3.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-dbcp/commons-dbcp/1.3/commons-dbcp-1.3.jar" sourcepath="M2_REPO/commons-dbcp/commons-dbcp/1.3/commons-dbcp-1.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/commons-dbcp/commons-dbcp/1.3/commons-dbcp-1.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar" sourcepath="M2_REPO/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/jackrabbit/jackrabbit-api/2.6.5/jackrabbit-api-2.6.5.jar" sourcepath="M2_REPO/org/apache/jackrabbit/jackrabbit-api/2.6.5/jackrabbit-api-2.6.5-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/jackrabbit/jackrabbit-api/2.6.5/jackrabbit-api-2.6.5-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/jackrabbit/jackrabbit-spi-commons/2.6.5-h2/jackrabbit-spi-commons-2.6.5-h2.jar" sourcepath="M2_REPO/org/apache/jackrabbit/jackrabbit-spi-commons/2.6.5-h2/jackrabbit-spi-commons-2.6.5-h2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/jackrabbit/jackrabbit-spi/2.6.5/jackrabbit-spi-2.6.5.jar" sourcepath="M2_REPO/org/apache/jackrabbit/jackrabbit-spi/2.6.5/jackrabbit-spi-2.6.5-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/jackrabbit/jackrabbit-spi/2.6.5/jackrabbit-spi-2.6.5-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tika/tika-core/1.3/tika-core-1.3.jar" sourcepath="M2_REPO/org/apache/tika/tika-core/1.3/tika-core-1.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/tika/tika-core/1.3/tika-core-1.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-core/3.6.0/lucene-core-3.6.0.jar" sourcepath="M2_REPO/org/apache/lucene/lucene-core/3.6.0/lucene-core-3.6.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/lucene/lucene-core/3.6.0/lucene-core-3.6.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/jcl-over-slf4j/1.7.6/jcl-over-slf4j-1.7.6.jar" sourcepath="M2_REPO/org/slf4j/jcl-over-slf4j/1.7.6/jcl-over-slf4j-1.7.6-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.6/jcl-over-slf4j-1.7.6-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-connector/2.26.09/hippo-repository-connector-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-connector/2.26.09/hippo-repository-connector-2.26.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-repository-connector/2.26.09/hippo-repository-connector-2.26.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/jackrabbit/jackrabbit-jcr-rmi/2.6.5/jackrabbit-jcr-rmi-2.6.5.jar" sourcepath="M2_REPO/org/apache/jackrabbit/jackrabbit-jcr-rmi/2.6.5/jackrabbit-jcr-rmi-2.6.5-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/jackrabbit/jackrabbit-jcr-rmi/2.6.5/jackrabbit-jcr-rmi-2.6.5-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-utilities/2.26.09/hippo-repository-utilities-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-utilities/2.26.09/hippo-repository-utilities-2.26.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-repository-utilities/2.26.09/hippo-repository-utilities-2.26.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/jackrabbit/jackrabbit-jcr2spi/2.6.5/jackrabbit-jcr2spi-2.6.5.jar" sourcepath="M2_REPO/org/apache/jackrabbit/jackrabbit-jcr2spi/2.6.5/jackrabbit-jcr2spi-2.6.5-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/jackrabbit/jackrabbit-jcr2spi/2.6.5/jackrabbit-jcr2spi-2.6.5-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/jackrabbit/jackrabbit-spi2jcr/2.6.5/jackrabbit-spi2jcr-2.6.5.jar" sourcepath="M2_REPO/org/apache/jackrabbit/jackrabbit-spi2jcr/2.6.5/jackrabbit-spi2jcr-2.6.5-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/jackrabbit/jackrabbit-spi2jcr/2.6.5/jackrabbit-spi2jcr-2.6.5-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-provider/2.26.09/hippo-repository-provider-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-provider/2.26.09/hippo-repository-provider-2.26.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-repository-provider/2.26.09/hippo-repository-provider-2.26.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar" sourcepath="M2_REPO/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/c3p0/c3p0/0.9.1.1/c3p0-0.9.1.1.jar" sourcepath="M2_REPO/c3p0/c3p0/0.9.1.1/c3p0-0.9.1.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/c3p0/c3p0/0.9.1.1/c3p0-0.9.1.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tika/tika-parsers/1.3/tika-parsers-1.3.jar" sourcepath="M2_REPO/org/apache/tika/tika-parsers/1.3/tika-parsers-1.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/tika/tika-parsers/1.3/tika-parsers-1.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/gagravarr/vorbis-java-tika/0.1/vorbis-java-tika-0.1.jar" sourcepath="M2_REPO/org/gagravarr/vorbis-java-tika/0.1/vorbis-java-tika-0.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/gagravarr/vorbis-java-tika/0.1/vorbis-java-tika-0.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1-tests.jar"/>
+  <classpathentry kind="var" path="M2_REPO/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar" sourcepath="M2_REPO/edu/ucar/netcdf/4.2-min/netcdf-4.2-min-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/edu/ucar/netcdf/4.2-min/netcdf-4.2-min-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.jar" sourcepath="M2_REPO/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/james/apache-mime4j-dom/0.7.2/apache-mime4j-dom-0.7.2.jar" sourcepath="M2_REPO/org/apache/james/apache-mime4j-dom/0.7.2/apache-mime4j-dom-0.7.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/james/apache-mime4j-dom/0.7.2/apache-mime4j-dom-0.7.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar" sourcepath="M2_REPO/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/tukaani/xz/1.0/xz-1.0.jar" sourcepath="M2_REPO/org/tukaani/xz/1.0/xz-1.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/tukaani/xz/1.0/xz-1.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/pdfbox/pdfbox/1.7.1/pdfbox-1.7.1.jar" sourcepath="M2_REPO/org/apache/pdfbox/pdfbox/1.7.1/pdfbox-1.7.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/pdfbox/pdfbox/1.7.1/pdfbox-1.7.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/pdfbox/fontbox/1.7.1/fontbox-1.7.1.jar" sourcepath="M2_REPO/org/apache/pdfbox/fontbox/1.7.1/fontbox-1.7.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/pdfbox/fontbox/1.7.1/fontbox-1.7.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/pdfbox/jempbox/1.7.1/jempbox-1.7.1.jar" sourcepath="M2_REPO/org/apache/pdfbox/jempbox/1.7.1/jempbox-1.7.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/pdfbox/jempbox/1.7.1/jempbox-1.7.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcmail-jdk15/1.45/bcmail-jdk15-1.45.jar" sourcepath="M2_REPO/org/bouncycastle/bcmail-jdk15/1.45/bcmail-jdk15-1.45-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/bouncycastle/bcmail-jdk15/1.45/bcmail-jdk15-1.45-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcprov-jdk15/1.45/bcprov-jdk15-1.45.jar" sourcepath="M2_REPO/org/bouncycastle/bcprov-jdk15/1.45/bcprov-jdk15-1.45-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/bouncycastle/bcprov-jdk15/1.45/bcprov-jdk15-1.45-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/poi/poi/3.8/poi-3.8.jar" sourcepath="M2_REPO/org/apache/poi/poi/3.8/poi-3.8-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/poi/poi-scratchpad/3.8/poi-scratchpad-3.8.jar" sourcepath="M2_REPO/org/apache/poi/poi-scratchpad/3.8/poi-scratchpad-3.8-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/poi/poi-ooxml/3.8/poi-ooxml-3.8.jar" sourcepath="M2_REPO/org/apache/poi/poi-ooxml/3.8/poi-ooxml-3.8-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/poi/poi-ooxml-schemas/3.8/poi-ooxml-schemas-3.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" sourcepath="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.jar" sourcepath="M2_REPO/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar" sourcepath="M2_REPO/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/googlecode/mp4parser/isoparser/1.0-RC-1/isoparser-1.0-RC-1.jar" sourcepath="M2_REPO/com/googlecode/mp4parser/isoparser/1.0-RC-1/isoparser-1.0-RC-1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/com/googlecode/mp4parser/isoparser/1.0-RC-1/isoparser-1.0-RC-1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/drewnoakes/metadata-extractor/2.6.2/metadata-extractor-2.6.2.jar" sourcepath="M2_REPO/com/drewnoakes/metadata-extractor/2.6.2/metadata-extractor-2.6.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/com/drewnoakes/metadata-extractor/2.6.2/metadata-extractor-2.6.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/adobe/xmp/xmpcore/5.1.2/xmpcore-5.1.2.jar" sourcepath="M2_REPO/com/adobe/xmp/xmpcore/5.1.2/xmpcore-5.1.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/com/adobe/xmp/xmpcore/5.1.2/xmpcore-5.1.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/rome/rome/0.9/rome-0.9.jar" sourcepath="M2_REPO/rome/rome/0.9/rome-0.9-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/rome/rome/0.9/rome-0.9-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/jdom/jdom/1.0/jdom-1.0.jar" sourcepath="M2_REPO/jdom/jdom/1.0/jdom-1.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1.jar" sourcepath="M2_REPO/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" sourcepath="M2_REPO/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/xmlbeans/xmlbeans-java6/2.3.0/xmlbeans-java6-2.3.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar" sourcepath="M2_REPO/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/groovy/groovy-all/2.2.2/groovy-all-2.2.2.jar" sourcepath="M2_REPO/org/codehaus/groovy/groovy-all/2.2.2/groovy-all-2.2.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/codehaus/groovy/groovy-all/2.2.2/groovy-all-2.2.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/h2database/h2/1.3.175/h2-1.3.175.jar" sourcepath="M2_REPO/com/h2database/h2/1.3.175/h2-1.3.175-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/com/h2database/h2/1.3.175/h2-1.3.175-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-modules/2.26.09/hippo-repository-modules-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-modules/2.26.09/hippo-repository-modules-2.26.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-repository-modules/2.26.09/hippo-repository-modules-2.26.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-services-eventbus/1.04.02/hippo-services-eventbus-1.04.02.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-services-eventbus/1.04.02/hippo-services-eventbus-1.04.02-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-services-eventbus/1.04.02/hippo-services-eventbus-1.04.02-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-cms7-commons/1.04.02/hippo-cms7-commons-1.04.02.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-cms7-commons/1.04.02/hippo-cms7-commons-1.04.02-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-cms7-commons/1.04.02/hippo-cms7-commons-1.04.02-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-services/1.04.02/hippo-services-1.04.02.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-services/1.04.02/hippo-services-1.04.02-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-services/1.04.02/hippo-services-1.04.02-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm/4.2/asm-4.2.jar" sourcepath="M2_REPO/org/ow2/asm/asm/4.2/asm-4.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/ow2/asm/asm/4.2/asm-4.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-config/2.26.09/hippo-repository-config-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-config/2.26.09/hippo-repository-config-2.26.09-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-servlets/2.26.09/hippo-repository-servlets-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-servlets/2.26.09/hippo-repository-servlets-2.26.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-repository-servlets/2.26.09/hippo-repository-servlets-2.26.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/freemarker/freemarker/2.3.16/freemarker-2.3.16.jar" sourcepath="M2_REPO/org/freemarker/freemarker/2.3.16/freemarker-2.3.16-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-scripts/2.26.09/hippo-repository-scripts-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-scripts/2.26.09/hippo-repository-scripts-2.26.09-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-workflow/2.26.09/hippo-repository-workflow-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-workflow/2.26.09/hippo-repository-workflow-2.26.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-repository-workflow/2.26.09/hippo-repository-workflow-2.26.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-scxml2/2.0-M1/commons-scxml2-2.0-M1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-resources/2.26.09/hippo-repository-resources-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-resources/2.26.09/hippo-repository-resources-2.26.09-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-repository-handle-migration/2.26.09/hippo-repository-handle-migration-2.26.09.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-repository-handle-migration/2.26.09/hippo-repository-handle-migration-2.26.09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-repository-handle-migration/2.26.09/hippo-repository-handle-migration-2.26.09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-addon-channel-manager-frontend/2.26.07/hippo-addon-channel-manager-frontend-2.26.07.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-addon-channel-manager-frontend/2.26.07/hippo-addon-channel-manager-frontend-2.26.07-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-addon-channel-manager-frontend/2.26.07/hippo-addon-channel-manager-frontend-2.26.07-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-addon-channel-manager-frontend-api/2.26.07/hippo-addon-channel-manager-frontend-api-2.26.07.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-addon-channel-manager-frontend-api/2.26.07/hippo-addon-channel-manager-frontend-api-2.26.07-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-addon-channel-manager-frontend-api/2.26.07/hippo-addon-channel-manager-frontend-api-2.26.07-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-addon-hst-configuration-editor-frontend/1.13.03/hippo-addon-hst-configuration-editor-frontend-1.13.03.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-addon-hst-configuration-editor-frontend/1.13.03/hippo-addon-hst-configuration-editor-frontend-1.13.03-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-addon-hst-configuration-editor-frontend/1.13.03/hippo-addon-hst-configuration-editor-frontend-1.13.03-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-addon-channel-manager-repository/2.26.07/hippo-addon-channel-manager-repository-2.26.07.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-addon-channel-manager-repository/2.26.07/hippo-addon-channel-manager-repository-2.26.07-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/cms7/hippo-addon-hst-configuration-editor-repository/1.13.03/hippo-addon-hst-configuration-editor-repository-1.13.03.jar" sourcepath="M2_REPO/org/onehippo/cms7/hippo-addon-hst-configuration-editor-repository/1.13.03/hippo-addon-hst-configuration-editor-repository-1.13.03-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/cms7/hippo-addon-hst-configuration-editor-repository/1.13.03/hippo-addon-hst-configuration-editor-repository-1.13.03-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="src" path="/tranformers-bootstrap-configuration"/>
+  <classpathentry kind="src" path="/tranformers-bootstrap-content"/>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/addon/frontend/gallerypicker/gallerypicker/1.13.00/gallerypicker-1.13.00.jar" sourcepath="M2_REPO/org/onehippo/addon/frontend/gallerypicker/gallerypicker/1.13.00/gallerypicker-1.13.00-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/addon/frontend/gallerypicker/gallerypicker/1.13.00/gallerypicker-1.13.00-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/onehippo/forge/resource-bundle-editor-plugin/1.02.05/resource-bundle-editor-plugin-1.02.05.jar" sourcepath="M2_REPO/org/onehippo/forge/resource-bundle-editor-plugin/1.02.05/resource-bundle-editor-plugin-1.02.05-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/onehippo/forge/resource-bundle-editor-plugin/1.02.05/resource-bundle-editor-plugin-1.02.05-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1.jar" sourcepath="M2_REPO/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-log4j12/1.7.6/slf4j-log4j12-1.7.6.jar" sourcepath="M2_REPO/org/slf4j/slf4j-log4j12/1.7.6/slf4j-log4j12-1.7.6-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/org/slf4j/slf4j-log4j12/1.7.6/slf4j-log4j12-1.7.6-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar" sourcepath="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/gridi/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar"/>
+</classpath>
